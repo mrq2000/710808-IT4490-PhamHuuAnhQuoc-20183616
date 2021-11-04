@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.MenuButton?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="622.0" style="-fx-background-color: #fff;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Pane layoutX="-4.0" prefHeight="84.0" prefWidth="631.0" style="-fx-background-color: pink;">
+         <children>
+            <ImageView fitHeight="63.0" fitWidth="75.0" layoutX="36.0" layoutY="11.0">
+               <image>
+                  <Image url="@249184485_412727547256080_4747665317883679063_n.png" />
+               </image>
+            </ImageView>
+            <TextField layoutX="132.0" layoutY="30.0" prefHeight="25.0" prefWidth="199.0" text="Phạm Hữu Anh Quốc - 20183616" />
+            <MenuButton layoutX="343.0" layoutY="30.0" mnemonicParsing="false" text="Search">
+              <items>
+                <MenuItem mnemonicParsing="false" text="Action 1" />
+                <MenuItem mnemonicParsing="false" text="Action 2" />
+              </items>
+            </MenuButton>
+            <ImageView fitHeight="33.0" fitWidth="31.0" layoutX="530.0" layoutY="26.0">
+               <image>
+                  <Image url="@249230608_426441055709902_7134814307627891016_n.png" />
+               </image>
+            </ImageView>
+            <Text fill="#0775c4" layoutX="524.0" layoutY="18.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0 media" />
+         </children>
+      </Pane>
+      <Pane layoutY="84.0" prefHeight="191.0" prefWidth="228.0">
+         <children>
+            <ImageView fitHeight="122.0" fitWidth="80.0" layoutX="25.0" layoutY="14.0">
+               <image>
+                  <Image url="@../../../37553053._SY475_.jpg" />
+               </image>
+            </ImageView>
+            <Text layoutX="129.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Conan">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Text>
+            <Button layoutX="121.0" layoutY="117.0" mnemonicParsing="false" text="Add to cart" />
+            <Text layoutX="129.0" layoutY="54.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Price">
+               <font>
+                  <Font size="9.0" />
+               </font>
+            </Text>
+            <Text layoutX="129.0" layoutY="67.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Avail">
+               <font>
+                  <Font size="9.0" />
+               </font>
+            </Text>
+            <Spinner layoutX="121.0" layoutY="83.0" prefHeight="25.0" prefWidth="75.0" />
+         </children>
+      </Pane>
+      <Pane layoutX="324.0" layoutY="84.0" prefHeight="191.0" prefWidth="228.0">
+         <children>
+            <ImageView fitHeight="122.0" fitWidth="80.0" layoutX="25.0" layoutY="14.0">
+               <image>
+                  <Image url="@../../../37553053._SY475_.jpg" />
+               </image>
+            </ImageView>
+            <Text layoutX="129.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Conan">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Text>
+            <Button layoutX="121.0" layoutY="117.0" mnemonicParsing="false" text="Add to cart" />
+            <Text layoutX="129.0" layoutY="54.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Price">
+               <font>
+                  <Font size="9.0" />
+               </font>
+            </Text>
+            <Text layoutX="129.0" layoutY="67.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Avail">
+               <font>
+                  <Font size="9.0" />
+               </font>
+            </Text>
+         </children>
+      </Pane>
+      <Pane layoutY="243.0" prefHeight="191.0" prefWidth="228.0">
+         <children>
+            <ImageView fitHeight="122.0" fitWidth="80.0" layoutX="25.0" layoutY="14.0">
+               <image>
+                  <Image url="@../../../37553053._SY475_.jpg" />
+               </image>
+            </ImageView>
+            <Text layoutX="129.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Conan">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Text>
+            <Button layoutX="121.0" layoutY="117.0" mnemonicParsing="false" text="Add to cart" />
+            <Text layoutX="129.0" layoutY="54.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Price">
+               <font>
+                  <Font size="9.0" />
+               </font>
+            </Text>
+            <Text layoutX="129.0" layoutY="67.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Avail">
+               <font>
+                  <Font size="9.0" />
+               </font>
+            </Text>
+            <Spinner layoutX="121.0" layoutY="83.0" prefHeight="25.0" prefWidth="75.0" />
+         </children>
+      </Pane>
+      <Pane layoutX="324.0" layoutY="255.0" prefHeight="191.0" prefWidth="228.0">
+         <children>
+            <ImageView fitHeight="122.0" fitWidth="80.0" layoutX="25.0" layoutY="14.0">
+               <image>
+                  <Image url="@../../../37553053._SY475_.jpg" />
+               </image>
+            </ImageView>
+            <Text layoutX="129.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Conan">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Text>
+            <Button layoutX="121.0" layoutY="117.0" mnemonicParsing="false" text="Add to cart" />
+            <Text layoutX="129.0" layoutY="54.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Price">
+               <font>
+                  <Font size="9.0" />
+               </font>
+            </Text>
+            <Text layoutX="129.0" layoutY="67.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Avail">
+               <font>
+                  <Font size="9.0" />
+               </font>
+            </Text>
+            <Spinner layoutX="121.0" layoutY="83.0" prefHeight="25.0" prefWidth="75.0" />
+         </children>
+      </Pane>
+   </children>
+</Pane>
